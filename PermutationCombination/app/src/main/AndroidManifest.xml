@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ucucite.edu.permutationcombination">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoko"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoko"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PermutationCombination">
+        <activity android:name=".ResultsActivity"></activity>
+        <activity android:name=".QuizActivity" />
+        <activity
+            android:name=".multiplechoice"
+            android:parentActivityName=".List" />
+        <activity android:name=".truefalse" />
+        <activity android:name=".combination" />
+        <activity android:name=".permutation" />
+        <activity
+            android:name=".List"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".listofComPer"
+            android:parentActivityName=".multiplechoice" />
+        <activity android:name=".SplashScreenPerCom">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

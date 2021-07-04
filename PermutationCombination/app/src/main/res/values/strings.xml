@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PermutationCombination</string>
+    <string name="permutation">Permutations follow directly from the fundamental principle of counting. The permutations are all the different number of ways in which we can arrange a number of objects .Since the objects can only be counted from the natural numbers or the counting numbers, we can say that in permutations we will only encounter the positive integers.</string>
+    <string name="combination">Permutations follow directly from the fundamental principle of counting. The permutations are all the different number of ways in which we can arrange a number of objects .Since the objects can only be counted from the natural numbers or the counting numbers, we can say that in permutations we will only encounter the positive integers.
+The number of combinations is the number of ways in which we can select a group of objects from a set. For example, if you have ‘n’ objects, in how many ways can you select or choose these ‘n’ objects? Moreover, if the order is taken into consideration  then it is the same as the number of permutation. But since the order doesn’t matter, there is only one way to do it! Which means that if you have to select ‘n’ objects taking ‘n’ at a time, there is only one way to do it.
+</string>
+
+    <string name="percom">
+    Permutation and combination is a very important topic in any competitive exams. We have covered this topic and all its sections in our earlier articles. Today we are going to discuss the permutation and combination practice questions. There are different types of practice questions for you to practice and get ready for the competitive exams.\n\n
+    These are the examples of  Permutation and Combination Practice.\n\n
+</string>
+</resources>
